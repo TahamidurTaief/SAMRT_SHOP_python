@@ -1,0 +1,23 @@
+
+		sojib shop
+        Phone No.  , 
+    email:  , website: 
+
+=============================================
+ Customer Name: taief
+ Ph no. :0154
+ Bill No. 310936			Date: 18/07/2022
+=============================================
+ Product Name			QTY	mrp
+=============================================
+        
+ Delius			1	BDT.600.0
+ Samsung Galaxy			1	BDT.15000.0
+=============================================
+ Bill Amount				BDT.15600.0
+ Discount				BDT.0
+ Net Pay				BDT.0
+=============================================
+
+PAID FULL MONEY
+        
